@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/loveYouBaby/static/css/main.325e5c5d.chunk.css",
+    "main.js": "/loveYouBaby/static/js/main.caeb234f.chunk.js",
+    "main.js.map": "/loveYouBaby/static/js/main.caeb234f.chunk.js.map",
+    "runtime-main.js": "/loveYouBaby/static/js/runtime-main.506277c1.js",
+    "runtime-main.js.map": "/loveYouBaby/static/js/runtime-main.506277c1.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/loveYouBaby/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.773f7153.chunk.js": "/loveYouBaby/static/js/2.773f7153.chunk.js",
+    "static/js/2.773f7153.chunk.js.map": "/loveYouBaby/static/js/2.773f7153.chunk.js.map",
+    "index.html": "/loveYouBaby/index.html",
+    "precache-manifest.00f7a8b7ccfa4fda8badd8a12d2a9cc7.js": "/loveYouBaby/precache-manifest.00f7a8b7ccfa4fda8badd8a12d2a9cc7.js",
+    "service-worker.js": "/loveYouBaby/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/loveYouBaby/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.325e5c5d.chunk.css.map": "/loveYouBaby/static/css/main.325e5c5d.chunk.css.map",
+    "static/js/2.773f7153.chunk.js.LICENSE.txt": "/loveYouBaby/static/js/2.773f7153.chunk.js.LICENSE.txt",
+    "static/media/Dark-white-in-Basic4.png": "/loveYouBaby/static/media/Dark-white-in-Basic4.3f730fde.png",
+    "static/media/ToyFaces_Tansparent_BG_56.png": "/loveYouBaby/static/media/ToyFaces_Tansparent_BG_56.a6abc16b.png",
+    "static/media/logo.svg": "/loveYouBaby/static/media/logo.5d5d9eef.svg",
+    "static/media/question1.jpeg": "/loveYouBaby/static/media/question1.b41756a5.jpeg",
+    "static/media/question3.jpeg": "/loveYouBaby/static/media/question3.ea2a0df5.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.506277c1.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.773f7153.chunk.js",
+    "static/css/main.325e5c5d.chunk.css",
+    "static/js/main.caeb234f.chunk.js"
+  ]
+}
